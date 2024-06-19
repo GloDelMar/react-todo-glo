@@ -34,7 +34,11 @@ export default function App(){
       </div>
     </main>
   )
-} */}
+} 
+
+Aqui debo averiguar cuál era mi error
+
+*/}
 
 import { useState } from "react"
 
